@@ -24,7 +24,7 @@ I started my journey on Roblox, and developed there for around 5 years. Now I've
 
 ## 💼 Current and Previous Roles
 
-| period | role | studio | project | notes |
+| Period | Role | Studio | Project | Notes |
 |--------|------|---------|---------|-------|
 | 2020 – 2021 | Gameplay Programmer | [X-Studios](https://www.roblox.com/communities/8247895/X-Studios-Group#!/about) | X-Fighters, X-Fighters: Rework, X-Fighters II | ~120K total visits |
 | 2022 | Gameplay Programmer | SumiStudios / Rito Games | [Valoblox](https://www.roblox.com/games/9818210203/Valoblox) | 2.3M+ visits |
