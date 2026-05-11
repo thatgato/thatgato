@@ -29,5 +29,5 @@ I started my journey on Roblox, and developed there for around 5 years. Now I've
 | 2020 – 2021 | Gameplay Programmer | [X-Studios](https://www.roblox.com/communities/8247895/X-Studios-Group#!/about) | X-Fighters, X-Fighters: Rework, X-Fighters II | ~120K total visits |
 | 2022 | Gameplay Programmer | SumiStudios / Rito Games | [Valoblox](https://www.roblox.com/games/9818210203/Valoblox) | 2.3M+ visits |
 | 2023 – 2024 | Lead Game Designer & Lead Programmer | — | The Last Realm | Cancelled duo fighting game project |
-| 2024 – 2025 | Game Designer & Lead Gameplay Programmer | [Strong Elder Studio](https://www.roblox.com/communities/16570105/Strong-Elder-Studio#!/about) | Project Relic: Asura | Devlogs: [#1](https://www.youtube.com/watch?v=MEi0dctShMg) [#2](https://www.youtube.com/watch?v=Rdco-MmwacA) |
+| 2024 – 2025 | Game Designer & Lead Gameplay Programmer | [Strong Elder Studio](https://www.roblox.com/communities/16570105/Strong-Elder-Studio#!/about) | Project Relic: Asura | **(Cancelled project)**<br>Devlogs: [#1](https://www.youtube.com/watch?v=MEi0dctShMg) [#2](https://www.youtube.com/watch?v=Rdco-MmwacA) |
 | 2026 – present | Lead Game Designer & Lead Gameplay Programmer | [GatoWorks](https://github.com/thegatoworks) | Physical *(Unity)* | Current Project |
